@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afshari-mostafa
+- 👋 Hi
 - 👀 I’m interested in Management and Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cloud base software developing
